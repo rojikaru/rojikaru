@@ -12,7 +12,7 @@ Hello! I'm Alex, a versatile full stack developer passionate about creating effi
 - **Mobile:** Android, MAUI
 - **Desktop:** WPF, MAUI
 - **APIs:** REST, GraphQL
-- **CI-CD:** Docker, AWS CodeDeploy, GitHub Actions
+- **CI/CD:** Docker, AWS CodeDeploy, GitHub Actions
 
 ### 🚀 What I Do
 
