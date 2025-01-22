@@ -6,9 +6,9 @@ Hello! I'm Alex, a versatile full stack developer passionate about creating effi
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, C#, Java, Kotlin, Python
-- **Frontend:** React, Next.js, Svelte, Angular, Tailwind CSS, Flowbite, MUI
-- **Backend:** Node.js (NestJS, Express, Fastify), ASP.NET (Core), Spring Framework, Django Rest Framework, FastAPI
+- **Languages:** C#, Rust, TypeScript, Kotlin, Python, Java, JavaScript
+- **Frontend:** React, Next.js, Remix, Svelte, Angular, Tailwind CSS, Flowbite, MUI, Radix UI
+- **Backend:** Node.js (NestJS, Express), ASP.NET, Actix Web, Spring Framework, Django, FastAPI
 - **Mobile:** Android, MAUI
 - **Desktop:** WPF, MAUI
 - **APIs:** REST, GraphQL
