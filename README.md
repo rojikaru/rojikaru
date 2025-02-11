@@ -13,6 +13,11 @@ I specialize in building robust web applications, mobile solutions, and desktop 
 - **Personal Projects:** Building a portfolio of web applications and exploring new frameworks and tools.
 - **Learning:** Continuously improving my skills in modern web development, machine learning, and cloud computing.
 
+## 🌱 What I'm Learning  
+- **Rust:** Enhancing my programming skills with Rust.
+- **Machine Learning:** Diving deep into machine learning algorithms and data science.
+- **Cloud Computing:** Exploring the capabilities of AWS, Azure, and Google Cloud.
+
 ## 🛠️ Tech Stack
 
 - **Languages:** C#, Rust, TypeScript, Kotlin, Python, Java, JavaScript
