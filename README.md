@@ -17,6 +17,7 @@ I specialize in building robust web applications, mobile solutions, and desktop 
 - **Rust:** Enhancing my programming skills with Rust.
 - **Machine Learning:** Diving deep into machine learning algorithms and data science.
 - **Cloud Computing:** Exploring the capabilities of AWS, Azure, and Google Cloud.
+- **Microservices:** Delving into microservice-based architecture & study high-load & scaling of applications.
 
 ## 🛠️ Tech Stack
 
