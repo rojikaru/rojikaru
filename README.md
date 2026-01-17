@@ -1,4 +1,4 @@
-# Alex Ivanov (@rojikaru)
+# Alex Horyshevskyi (@rojikaru)
 
 ## 👨‍💻 Full Stack Developer
 
@@ -21,13 +21,15 @@ I specialize in building robust web applications, mobile solutions, and desktop 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** C#, Rust, TypeScript, Kotlin, Python, Java, JavaScript
-- **Frontend:** React, Next.js, Remix, Svelte, Angular, Tailwind CSS, Flowbite, MUI, Radix UI
-- **Backend:** Node.js (NestJS, Express), ASP.NET, Actix Web, Spring Framework, Django, FastAPI
-- **Mobile:** Android, MAUI
-- **Desktop:** WPF, MAUI
-- **APIs:** REST, GraphQL
+- **Languages:** Rust, TypeScript, Kotlin, Python, Java, C#, JavaScript
+- **Frontend:** React, Next.js, Tanstack Start, Remix, Svelte, Angular, Vue
+- **Backend:** Node.js, ASP.NET, Actix Web, Ktor, Spring Framework, Django, FastAPI
+- **Mobile:** Tauri, Jetpack Compose, MAUI
+- **Desktop:** Tauri, WPF, MAUI
+- **APIs:** REST API, GraphQL
 - **CI/CD:** Docker, AWS CodeDeploy, GitHub Actions
+- **AI**: Langchain (& Langgraph), Vercel AI SDK, OpenAI SDK
+- **ML**: PyTorch, Stable Baselines, OpenCV
 
 ## 📫 How to Reach Me  
 
